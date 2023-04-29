@@ -1,4 +1,4 @@
-👋 Hi, I’m @Rahil-Nelliyali
+<h1 align="center">Hi 👋, I'm Rahil Nelliyali</h1>
 I am a Python developer and I love building applications that solve real-world problems.
 
 🔭 I’m currently working on iCases : A fully functional ecommerce website using Django.
