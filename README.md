@@ -2,8 +2,8 @@
 I am a Python developer and I love building applications that solve real-world problems.
 
 - 🔭 I’m currently working on iCases : A fully functional ecommerce website using Django.
-- 🌱 I’m currently learning Python, Django
-- 💬 Ask me about Python, Object-Oriented Programming, Web Development, Django
+- 🌱 I’m learning Python, Django
+- 💬 Ask me about Object-Oriented Programming, Web Development, Python, Django
 - 📫 How to reach me **rahilnelliyali0@gmail.com**
 - ⚡ Fun fact I enjoy playing football 
 
