@@ -2,7 +2,7 @@
 I am a Python developer and I love building applications that solve real-world problems.
 
 - 🔭 I’m currently learning Data Structures and Algorithms
-- 🌱 I’m learning Python, Django
+- 🌱 Checkout my first project using Django
 - 💬 Ask me about Object-Oriented Programming, Web Development, Python, Django
 - 📫 How to reach me **rahilnelliyali0@gmail.com**
 - ⚡ Fun fact I enjoy playing football 
