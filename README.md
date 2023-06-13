@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahil Nelliyali</h1>
 I am a Python developer and I love building applications that solve real-world problems.
 
-- 🔭 I’m currently learning Structured Query Language & Relational Database
-- 🌱 Checkout my first project using Django
-- 💬 Ask me about Object-Oriented Programming, Web Development, Python, Django
+- 🔭 I’m currently learning Object Relational Mapping
+- 🌱 Working on creating an employee management system in Python Django
+- 💬 Ask me about Object-Oriented Programming, Web Development, Python, Django, SQL, Relational Database
 - 📫 How to reach me **rahilnelliyali0@gmail.com**
 - ⚡ Fun fact I enjoy playing football 
 
