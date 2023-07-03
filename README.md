@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahil Nelliyali</h1>
 I am a Python developer and I love building applications that solve real-world problems.
 
-- 🔭 I’m currently learning MongoDB
+- 🔭 I’m currently learning React!
 - 🌱 Working on creating an employee management system in Python Django
 - 💬 Ask me about Object-Oriented Programming, Web Development, Python, Django, SQL, Relational Database
 - 📫 How to reach me **rahilnelliyali0@gmail.com**
