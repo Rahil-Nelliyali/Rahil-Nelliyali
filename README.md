@@ -2,7 +2,7 @@
 I am a Python developer and I love building applications that solve real-world problems.
 
 - 🔭 I’m currently learning React!
-- 🌱 Working on creating an employee management system in Python Django
+- 🌱 Working on creating a Car Rental Booking Application using React and Django!
 - 💬 Ask me about Object-Oriented Programming, Web Development, Python, Django, SQL, Relational Database
 - 📫 How to reach me **rahilnelliyali0@gmail.com**
 - ⚡ Fun fact I enjoy playing football 
