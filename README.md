@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahil Nelliyali</h1>
-I am a Python developer and I love building applications that solve real-world problems.
+I am a Python-Django + React Full Stack Developer and I love building applications that solve real-world problems.
 
 - 🔭 I’m currently learning React!
 - 🌱 Working on creating a Car Rental Booking Application using React and Django!
